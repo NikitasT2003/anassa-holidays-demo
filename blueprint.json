@@ -8,7 +8,7 @@
     { "step": "setSiteOptions", "options": { "permalink_structure": "/%postname%/" } },
     {
       "step": "installTheme",
-      "themeData": { "resource": "url", "url": "https://raw.githubusercontent.com/NikitasT2003/anassa-holidays-demo/main/anassa.zip?v=2" },
+      "themeData": { "resource": "url", "url": "https://raw.githubusercontent.com/NikitasT2003/anassa-holidays-demo/main/anassa-holidays-1.zip" },
       "options": { "activate": true }
     }
   ]
